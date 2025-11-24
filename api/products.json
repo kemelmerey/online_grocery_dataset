@@ -1,0 +1,512 @@
+[
+    {
+      "id": 1,
+      "name": "Bell Pepper Red",
+      "brand": "Magnum Fresh",
+      "unit": "1kg",
+      "price": 899,
+      "category": "Vegetables",
+      "description": "Fresh red bell peppers rich in vitamins A and C.",
+      "image": "https://yourcdn.com/grocery/bell_pepper_red.png"
+    },
+    {
+      "id": 2,
+      "name": "Ginger Root",
+      "brand": "Magnum Organic",
+      "unit": "250g",
+      "price": 499,
+      "category": "Vegetables",
+      "description": "Fresh aromatic ginger perfect for tea and cooking.",
+      "image": "https://yourcdn.com/grocery/ginger.png"
+    },
+    {
+      "id": 3,
+      "name": "Broiler Chicken",
+      "brand": "Small Market",
+      "unit": "1kg",
+      "price": 1399,
+      "category": "Meat",
+      "description": "Fresh broiler chicken ideal for grilling or roasting.",
+      "image": "https://yourcdn.com/grocery/broiler_chicken.png"
+    },
+    {
+      "id": 4,
+      "name": "Beef Bone",
+      "brand": "KazMeat",
+      "unit": "1kg",
+      "price": 1299,
+      "category": "Meat",
+      "description": "High quality beef bone perfect for broth and soups.",
+      "image": "https://yourcdn.com/grocery/beef_bone.png"
+    },
+    {
+      "id": 5,
+      "name": "Naturel Red Apple",
+      "brand": "Aport Market",
+      "unit": "1kg",
+      "price": 650,
+      "category": "Fruits",
+      "description": "Crisp and sweet red apples, source of vitamins.",
+      "image": "https://yourcdn.com/grocery/red_apple.png"
+    },
+  
+    {
+      "id": 6,
+      "name": "Banana",
+      "brand": "Magnum Fresh",
+      "unit": "1kg",
+      "price": 780,
+      "category": "Fruits",
+      "description": "Sweet bananas perfect for snacks and smoothies.",
+      "image": "https://yourcdn.com/grocery/banana.png"
+    },
+    {
+      "id": 7,
+      "name": "Mandarin",
+      "brand": "Small",
+      "unit": "1kg",
+      "price": 890,
+      "category": "Fruits",
+      "description": "Fresh juicy mandarins rich in vitamin C.",
+      "image": "https://yourcdn.com/grocery/mandarin.png"
+    },
+    {
+      "id": 8,
+      "name": "Potato",
+      "brand": "KazAgro",
+      "unit": "1kg",
+      "price": 150,
+      "category": "Vegetables",
+      "description": "Organic potatoes suitable for boiling, frying, and baking.",
+      "image": "https://yourcdn.com/grocery/potato.png"
+    },
+    {
+      "id": 9,
+      "name": "Tomato",
+      "brand": "Aport Fresh",
+      "unit": "1kg",
+      "price": 799,
+      "category": "Vegetables",
+      "description": "Fresh tomatoes perfect for salads and cooking.",
+      "image": "https://yourcdn.com/grocery/tomato.png"
+    },
+    {
+      "id": 10,
+      "name": "Cucumber",
+      "brand": "GreenHouse",
+      "unit": "1kg",
+      "price": 690,
+      "category": "Vegetables",
+      "description": "Crisp cucumbers ideal for salads and pickles.",
+      "image": "https://yourcdn.com/grocery/cucumber.png"
+    },
+  
+    {
+      "id": 11,
+      "name": "Milk 1L",
+      "brand": "FoodMaster",
+      "unit": "1L",
+      "price": 420,
+      "category": "Dairy",
+      "description": "Fresh pasteurized cow milk.",
+      "image": "https://yourcdn.com/grocery/milk.png"
+    },
+    {
+      "id": 12,
+      "name": "Kefir 1L",
+      "brand": "Aynalaiyn",
+      "unit": "1L",
+      "price": 460,
+      "category": "Dairy",
+      "description": "Traditional Kazakh kefir drink.",
+      "image": "https://yourcdn.com/grocery/kefir.png"
+    },
+    {
+      "id": 13,
+      "name": "Cheese Gouda",
+      "brand": "Hochland",
+      "unit": "250g",
+      "price": 1190,
+      "category": "Dairy",
+      "description": "Soft gouda cheese with creamy taste.",
+      "image": "https://yourcdn.com/grocery/gouda_cheese.png"
+    },
+    {
+      "id": 14,
+      "name": "Yogurt Strawberry",
+      "brand": "Danone",
+      "unit": "145g",
+      "price": 320,
+      "category": "Dairy",
+      "description": "Strawberry flavored yogurt.",
+      "image": "https://yourcdn.com/grocery/strawberry_yogurt.png"
+    },
+    {
+      "id": 15,
+      "name": "Butter 82%",
+      "brand": "Prostokvashino",
+      "unit": "180g",
+      "price": 1250,
+      "category": "Dairy",
+      "description": "High-fat natural butter.",
+      "image": "https://yourcdn.com/grocery/butter.png"
+    },
+  
+    {
+      "id": 16,
+      "name": "Coca Cola",
+      "brand": "Coca-Cola",
+      "unit": "1L",
+      "price": 380,
+      "category": "Drinks",
+      "description": "Refreshing classic cola.",
+      "image": "https://yourcdn.com/grocery/coca_cola.png"
+    },
+    {
+      "id": 17,
+      "name": "Pepsi",
+      "brand": "PepsiCo",
+      "unit": "1L",
+      "price": 360,
+      "category": "Drinks",
+      "description": "Cool and refreshing Pepsi.",
+      "image": "https://yourcdn.com/grocery/pepsi.png"
+    },
+    {
+      "id": 18,
+      "name": "Mineral Water",
+      "brand": "Tassay",
+      "unit": "1L",
+      "price": 280,
+      "category": "Drinks",
+      "description": "Still mineral drinking water.",
+      "image": "https://yourcdn.com/grocery/mineral_water.png"
+    },
+    {
+      "id": 19,
+      "name": "Iced Tea Peach",
+      "brand": "Lipton",
+      "unit": "1L",
+      "price": 420,
+      "category": "Drinks",
+      "description": "Peach flavored iced tea.",
+      "image": "https://yourcdn.com/grocery/lipton_peach.png"
+    },
+    {
+      "id": 20,
+      "name": "Energy Drink",
+      "brand": "Red Bull",
+      "unit": "250ml",
+      "price": 650,
+      "category": "Drinks",
+      "description": "Energy boosting drink.",
+      "image": "https://yourcdn.com/grocery/redbull.png"
+    },
+  
+    {
+      "id": 21,
+      "name": "Chocolate Bar",
+      "brand": "Snickers",
+      "unit": "50g",
+      "price": 290,
+      "category": "Snacks",
+      "description": "Chocolate bar with nuts and caramel.",
+      "image": "https://yourcdn.com/grocery/snickers.png"
+    },
+    {
+      "id": 22,
+      "name": "Potato Chips",
+      "brand": "Lays",
+      "unit": "150g",
+      "price": 550,
+      "category": "Snacks",
+      "description": "Crispy salted potato chips.",
+      "image": "https://yourcdn.com/grocery/lays.png"
+    },
+    {
+      "id": 23,
+      "name": "Chocolate Cookies",
+      "brand": "Oreo",
+      "unit": "95g",
+      "price": 390,
+      "category": "Snacks",
+      "description": "Classic sandwich cookies.",
+      "image": "https://yourcdn.com/grocery/oreo.png"
+    },
+    {
+      "id": 24,
+      "name": "Tuc Crackers",
+      "brand": "Tuc",
+      "unit": "100g",
+      "price": 450,
+      "category": "Snacks",
+      "description": "Salty buttery crackers.",
+      "image": "https://yourcdn.com/grocery/tuc.png"
+    },
+    {
+      "id": 25,
+      "name": "Corn Sticks",
+      "brand": "Кузя",
+      "unit": "85g",
+      "price": 250,
+      "category": "Snacks",
+      "description": "Sweet corn snacks popular in Kazakhstan.",
+      "image": "https://yourcdn.com/grocery/kuzya.png"
+    },
+  
+    {
+      "id": 26,
+      "name": "Dumplings Beef",
+      "brand": "Сытный Дом",
+      "unit": "900g",
+      "price": 1490,
+      "category": "Frozen Foods",
+      "description": "Frozen beef dumplings.",
+      "image": "https://yourcdn.com/grocery/pelmeni.png"
+    },
+    {
+      "id": 27,
+      "name": "Chicken Nuggets",
+      "brand": "Hortex",
+      "unit": "300g",
+      "price": 950,
+      "category": "Frozen Foods",
+      "description": "Crispy frozen chicken nuggets.",
+      "image": "https://yourcdn.com/grocery/nuggets.png"
+    },
+    {
+      "id": 28,
+      "name": "Frozen Berries",
+      "brand": "Hortex",
+      "unit": "400g",
+      "price": 1190,
+      "category": "Frozen Foods",
+      "description": "Mixed frozen berries.",
+      "image": "https://yourcdn.com/grocery/frozen_berries.png"
+    },
+    {
+      "id": 29,
+      "name": "Frozen Pizza",
+      "brand": "Ristorante",
+      "unit": "355g",
+      "price": 1350,
+      "category": "Frozen Foods",
+      "description": "Italian-style frozen pizza.",
+      "image": "https://yourcdn.com/grocery/pizza.png"
+    },
+    {
+      "id": 30,
+      "name": "Ice Cream Vanilla",
+      "brand": "Haagen-Dazs",
+      "unit": "473ml",
+      "price": 2590,
+      "category": "Frozen Foods",
+      "description": "Premium vanilla ice cream.",
+      "image": "https://yourcdn.com/grocery/icecream.png"
+    },
+  
+    {
+      "id": 31,
+      "name": "White Bread",
+      "brand": "Aksai Nan",
+      "unit": "1pc",
+      "price": 250,
+      "category": "Bakery",
+      "description": "Soft traditional Kazakh bread.",
+      "image": "https://yourcdn.com/grocery/white_bread.png"
+    },
+    {
+      "id": 32,
+      "name": "Baguette",
+      "brand": "French Bakery",
+      "unit": "1pc",
+      "price": 390,
+      "category": "Bakery",
+      "description": "Crispy French-style baguette.",
+      "image": "https://yourcdn.com/grocery/baguette.png"
+    },
+    {
+      "id": 33,
+      "name": "Croissant",
+      "brand": "Aksai",
+      "unit": "1pc",
+      "price": 250,
+      "category": "Bakery",
+      "description": "Soft buttery croissant.",
+      "image": "https://yourcdn.com/grocery/croissant.png"
+    },
+    {
+      "id": 34,
+      "name": "Lavash Bread",
+      "brand": "Aport Bakery",
+      "unit": "1pc",
+      "price": 320,
+      "category": "Bakery",
+      "description": "Thin traditional lavash bread.",
+      "image": "https://yourcdn.com/grocery/lavash.png"
+    },
+    {
+      "id": 35,
+      "name": "Buns with Sesame",
+      "brand": "Aksai",
+      "unit": "4pcs",
+      "price": 450,
+      "category": "Bakery",
+      "description": "Burger buns with sesame seeds.",
+      "image": "https://yourcdn.com/grocery/buns.png"
+    },
+  
+    {
+      "id": 36,
+      "name": "Laundry Detergent",
+      "brand": "Ariel",
+      "unit": "3kg",
+      "price": 2990,
+      "category": "Home Essentials",
+      "description": "High-efficiency washing powder.",
+      "image": "https://yourcdn.com/grocery/ariel.png"
+    },
+    {
+      "id": 37,
+      "name": "Dishwashing Liquid",
+      "brand": "Fairy",
+      "unit": "450ml",
+      "price": 650,
+      "category": "Home Essentials",
+      "description": "Lemon-scented dishwashing liquid.",
+      "image": "https://yourcdn.com/grocery/fairy.png"
+    },
+    {
+      "id": 38,
+      "name": "Toilet Paper",
+      "brand": "Zewa",
+      "unit": "4 rolls",
+      "price": 890,
+      "category": "Home Essentials",
+      "description": "Soft 2-ply toilet paper.",
+      "image": "https://yourcdn.com/grocery/toilet_paper.png"
+    },
+    {
+      "id": 39,
+      "name": "Garbage Bags",
+      "brand": "EcoBag",
+      "unit": "30pcs",
+      "price": 480,
+      "category": "Home Essentials",
+      "description": "Durable garbage bags.",
+      "image": "https://yourcdn.com/grocery/garbage_bags.png"
+    },
+    {
+      "id": 40,
+      "name": "Hand Soap",
+      "brand": "Safeguard",
+      "unit": "250ml",
+      "price": 550,
+      "category": "Home Essentials",
+      "description": "Antibacterial liquid soap.",
+      "image": "https://yourcdn.com/grocery/hand_soap.png"
+    },
+  
+    {
+      "id": 41,
+      "name": "Eggs",
+      "brand": "KazFarm",
+      "unit": "10pcs",
+      "price": 790,
+      "category": "Dairy",
+      "description": "Farm fresh chicken eggs.",
+      "image": "https://yourcdn.com/grocery/eggs.png"
+    },
+    {
+      "id": 42,
+      "name": "Cabbage",
+      "brand": "Local Farm",
+      "unit": "1kg",
+      "price": 250,
+      "category": "Vegetables",
+      "description": "Fresh green cabbage.",
+      "image": "https://yourcdn.com/grocery/cabbage.png"
+    },
+    {
+      "id": 43,
+      "name": "Carrot",
+      "brand": "Local Farm",
+      "unit": "1kg",
+      "price": 190,
+      "category": "Vegetables",
+      "description": "Fresh carrots rich in beta-carotene.",
+      "image": "https://yourcdn.com/grocery/carrot.png"
+    },
+    {
+      "id": 44,
+      "name": "Onion",
+      "brand": "Local Farm",
+      "unit": "1kg",
+      "price": 180,
+      "category": "Vegetables",
+      "description": "Yellow onions used for soups and cooking.",
+      "image": "https://yourcdn.com/grocery/onion.png"
+    },
+    {
+      "id": 45,
+      "name": "Orange Juice",
+      "brand": "J7",
+      "unit": "1L",
+      "price": 750,
+      "category": "Drinks",
+      "description": "100% natural orange juice.",
+      "image": "https://yourcdn.com/grocery/orange_juice.png"
+    },
+  
+    {
+      "id": 46,
+      "name": "Rice",
+      "brand": "Ak Biday",
+      "unit": "1kg",
+      "price": 590,
+      "category": "Pantry",
+      "description": "Premium polished rice.",
+      "image": "https://yourcdn.com/grocery/rice.png"
+    },
+    {
+      "id": 47,
+      "name": "Pasta Spaghetti",
+      "brand": "Barilla",
+      "unit": "500g",
+      "price": 590,
+      "category": "Pantry",
+      "description": "High-quality Italian spaghetti.",
+      "image": "https://yourcdn.com/grocery/spaghetti.png"
+    },
+    {
+      "id": 48,
+      "name": "Sugar",
+      "brand": "Raimbek",
+      "unit": "1kg",
+      "price": 520,
+      "category": "Pantry",
+      "description": "White cane sugar.",
+      "image": "https://yourcdn.com/grocery/sugar.png"
+    },
+    {
+      "id": 49,
+      "name": "Sunflower Oil",
+      "brand": "Zhuldyz",
+      "unit": "1L",
+      "price": 690,
+      "category": "Pantry",
+      "description": "Refined sunflower oil.",
+      "image": "https://yourcdn.com/grocery/oil.png"
+    },
+    {
+      "id": 50,
+      "name": "Salt",
+      "brand": "Aport",
+      "unit": "1kg",
+      "price": 160,
+      "category": "Pantry",
+      "description": "Fine table salt.",
+      "image": "https://yourcdn.com/grocery/salt.png"
+    }
+  ]
+  
