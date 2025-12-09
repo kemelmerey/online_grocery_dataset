@@ -7,7 +7,7 @@
       "price": 899,
       "category": "Vegetables",
       "description": "Fresh red bell peppers rich in vitamins A and C.",
-      "image": "https://yourcdn.com/grocery/bell_pepper_red.png"
+      "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765292827/Fresh-Red-Bell-Pepper-1-Each_7be94a8e-9a5d-4f87-842f-5fe4084138ba.c95d36e140f5e0d492ca632b42e4543c.jpeg_xqseg4.webp"
     },
     {
       "id": 2,
@@ -17,7 +17,7 @@
       "price": 499,
       "category": "Vegetables",
       "description": "Fresh aromatic ginger perfect for tea and cooking.",
-      "image": "https://yourcdn.com/grocery/ginger.png"
+      "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765292895/Fresh-Ginger-Root-By-Rani-Brand-7-Ounce_7106d674-f454-4f7e-be4b-110a2b24b056.138923997dffafeab06f926ac363d61a.jpeg_afmq0n.webp"
     },
     {
       "id": 3,
@@ -27,7 +27,7 @@
       "price": 1399,
       "category": "Meat",
       "description": "Fresh broiler chicken ideal for grilling or roasting.",
-      "image": "https://yourcdn.com/grocery/broiler_chicken.png"
+      "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765293207/broiler-chicken-skin-on-50-gm-1-kg_jybmx6.jpg"
     },
     {
       "id": 4,
@@ -37,6 +37,6 @@
       "price": 1299,
       "category": "Meat",
       "description": "High quality beef bone perfect for broth and soups.",
-      "image": "https://yourcdn.com/grocery/beef_bone.png"
+      "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765293294/bengal-meat-beef-bone-in-50-gm-1-kg_bd2rf8.jpg"
     }
 ]
