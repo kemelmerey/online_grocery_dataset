@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "name": "Bell Pepper Red",
+      "brand": "Magnum Fresh",
+      "unit": "1kg",
+      "price": 899,
+      "category": "Vegetables",
+      "description": "Fresh red bell peppers rich in vitamins A and C.",
+      "image": "https://yourcdn.com/grocery/bell_pepper_red.png"
+    },
+    {
+      "id": 2,
+      "name": "Ginger Root",
+      "brand": "Magnum Organic",
+      "unit": "250g",
+      "price": 499,
+      "category": "Vegetables",
+      "description": "Fresh aromatic ginger perfect for tea and cooking.",
+      "image": "https://yourcdn.com/grocery/ginger.png"
+    },
+    {
+      "id": 3,
+      "name": "Broiler Chicken",
+      "brand": "Small Market",
+      "unit": "1kg",
+      "price": 1399,
+      "category": "Meat",
+      "description": "Fresh broiler chicken ideal for grilling or roasting.",
+      "image": "https://yourcdn.com/grocery/broiler_chicken.png"
+    },
+    {
+      "id": 4,
+      "name": "Beef Bone",
+      "brand": "KazMeat",
+      "unit": "1kg",
+      "price": 1299,
+      "category": "Meat",
+      "description": "High quality beef bone perfect for broth and soups.",
+      "image": "https://yourcdn.com/grocery/beef_bone.png"
+    }
+]
