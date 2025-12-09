@@ -38,5 +38,65 @@
       "category": "Meat",
       "description": "High quality beef bone perfect for broth and soups.",
       "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765293294/bengal-meat-beef-bone-in-50-gm-1-kg_bd2rf8.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Naturel Red Apple",
+      "brand": "Aport Market",
+      "unit": "1kg",
+      "price": 650,
+      "category": "Fruits",
+      "description": "Crisp and sweet red apples, source of vitamins.",
+      "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312293/china-fuji-apple-50-gm-1-kg_i1njcp.png"
+    },
+    {
+      "id": 6,
+      "name": "Banana",
+      "brand": "Magnum Fresh",
+      "unit": "1kg",
+      "price": 780,
+      "category": "Fruits",
+      "description": "Sweet bananas perfect for snacks and smoothies.",
+      "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312383/shagor-kola-banana-sagor-4-pcs_jlyuwg.png"
+    },
+    {
+      "id": 7,
+      "name": "Mandarin",
+      "brand": "Small",
+      "unit": "1kg",
+      "price": 890,
+      "category": "Fruits",
+      "description": "Fresh juicy mandarins rich in vitamin C.",
+      "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312563/84878659846174_jveipp.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Potato",
+      "brand": "KazAgro",
+      "unit": "1kg",
+      "price": 150,
+      "category": "Vegetables",
+      "description": "Organic potatoes suitable for boiling, frying, and baking.",
+      "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312699/20157041_dorpjt.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Tomato",
+      "brand": "Aport Fresh",
+      "unit": "1kg",
+      "price": 799,
+      "category": "Vegetables",
+      "description": "Fresh tomatoes perfect for salads and cooking.",
+      "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312799/86007840_by4rnc.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Cucumber",
+      "brand": "GreenHouse",
+      "unit": "1kg",
+      "price": 690,
+      "category": "Vegetables",
+      "description": "Crisp cucumbers ideal for salads and pickles.",
+      "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312847/85359409561630_dw2otq.jpg"
     }
 ]
