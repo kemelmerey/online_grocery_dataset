@@ -14,7 +14,7 @@
       "name": "Ginger Root",
       "brand": "Magnum Organic",
       "unit": "250g",
-      "price": 499,
+      "price": 4.99,
       "category": "Vegetables",
       "description": "Fresh aromatic ginger perfect for tea and cooking.",
       "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765292895/Fresh-Ginger-Root-By-Rani-Brand-7-Ounce_7106d674-f454-4f7e-be4b-110a2b24b056.138923997dffafeab06f926ac363d61a.jpeg_afmq0n.webp"
@@ -24,7 +24,7 @@
       "name": "Broiler Chicken",
       "brand": "Small Market",
       "unit": "1kg",
-      "price": 1399,
+      "price": 1.39,
       "category": "Meat",
       "description": "Fresh broiler chicken ideal for grilling or roasting.",
       "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765293207/broiler-chicken-skin-on-50-gm-1-kg_jybmx6.jpg"
@@ -34,7 +34,7 @@
       "name": "Beef Bone",
       "brand": "KazMeat",
       "unit": "1kg",
-      "price": 1299,
+      "price": 1.29,
       "category": "Meat",
       "description": "High quality beef bone perfect for broth and soups.",
       "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765293294/bengal-meat-beef-bone-in-50-gm-1-kg_bd2rf8.jpg"
@@ -44,7 +44,7 @@
       "name": "Naturel Red Apple",
       "brand": "Aport Market",
       "unit": "1kg",
-      "price": 650,
+      "price": 6.50,
       "category": "Fruits",
       "description": "Crisp and sweet red apples, source of vitamins.",
       "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312293/china-fuji-apple-50-gm-1-kg_i1njcp.png"
@@ -54,7 +54,7 @@
       "name": "Banana",
       "brand": "Magnum Fresh",
       "unit": "1kg",
-      "price": 780,
+      "price": 7.80,
       "category": "Fruits",
       "description": "Sweet bananas perfect for snacks and smoothies.",
       "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312383/shagor-kola-banana-sagor-4-pcs_jlyuwg.png"
@@ -64,7 +64,7 @@
       "name": "Mandarin",
       "brand": "Small",
       "unit": "1kg",
-      "price": 890,
+      "price": 8.90,
       "category": "Fruits",
       "description": "Fresh juicy mandarins rich in vitamin C.",
       "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312563/84878659846174_jveipp.jpg"
@@ -74,7 +74,7 @@
       "name": "Potato",
       "brand": "KazAgro",
       "unit": "1kg",
-      "price": 150,
+      "price": 1.50,
       "category": "Vegetables",
       "description": "Organic potatoes suitable for boiling, frying, and baking.",
       "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312699/20157041_dorpjt.jpg"
@@ -84,7 +84,7 @@
       "name": "Tomato",
       "brand": "Aport Fresh",
       "unit": "1kg",
-      "price": 799,
+      "price": 7.99,
       "category": "Vegetables",
       "description": "Fresh tomatoes perfect for salads and cooking.",
       "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312799/86007840_by4rnc.jpg"
@@ -94,7 +94,7 @@
       "name": "Cucumber",
       "brand": "GreenHouse",
       "unit": "1kg",
-      "price": 690,
+      "price": 6.90,
       "category": "Vegetables",
       "description": "Crisp cucumbers ideal for salads and pickles.",
       "image": "https://res.cloudinary.com/dhbb2ehoi/image/upload/v1765312847/85359409561630_dw2otq.jpg"
